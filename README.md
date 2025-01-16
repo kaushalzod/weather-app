@@ -67,6 +67,7 @@ The app uses the **MVVM (Model-View-ViewModel)** pattern:
   <img src="./assets/screenshot2.png" alt="App Screenshot 2" width="45%">
 </p>
 
+[preview.webm](https://github.com/user-attachments/assets/91ac7486-6081-4938-98fc-40a6e749adc7)
 
 
 ---
